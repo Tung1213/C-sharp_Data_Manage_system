@@ -6,3 +6,5 @@
 2. 可將資料匯出成excel檔案，方便人員作業
 
 ```
+
+![image](https://github.com/Tung1213/C-sharp_Data_Manage_system/blob/main/%E4%BB%8B%E9%9D%A2%E8%A8%AD%E8%A8%88.PNG)
