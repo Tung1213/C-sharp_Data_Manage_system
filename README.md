@@ -7,4 +7,4 @@
 
 ```
 
-![image](https://github.com/Tung1213/C-sharp_Data_Manage_system/blob/main/%E4%BB%8B%E9%9D%A2%E8%A8%AD%E8%A8%88.PNG)
+![image](https://github.com/Tung1213/C-sharp_Data_Manage_system/blob/main/%E8%B3%87%E6%96%99%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1.PNG)
